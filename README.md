@@ -6,7 +6,7 @@ This is a backend implementation of a Library Management System that manages boo
 API Documentation
 The APIs are documented using Swagger. To view the documentation, run the application and navigate to http://localhost:8080/swagger-ui.html in your web browser.
 
-Setup:-<br/>
+Setup:-<br/> 
 Prerequisites<br/>
 Java 11 or later<br/>
 Maven 3.6 or later<br/>
