@@ -53,4 +53,4 @@ Here are some screenshots of swagger documentation:-
 ![Screenshot (20)](https://user-images.githubusercontent.com/77284210/230954736-2ae419b3-be8b-4ff7-aa3a-5402d683ff5e.png)
 
 Contact:-
-If you have any questions or suggestions, please feel free to reach out to me at  sk370008@gmail.com or via my LinkedIn profile at https://www.linkedin.com/in/sk370008/
+If you have any questions or suggestions, please feel free to reach out to me at saudmirza28@gmail.com or via my LinkedIn profile at https://www.linkedin.com/in/saud-mirza28/
